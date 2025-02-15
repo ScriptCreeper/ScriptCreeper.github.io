@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ScriptCreeper&#39;s blog</title>
+        <link>https://ScriptCreeper.github.io/</link>
+        <description>Recent content on ScriptCreeper&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>ScriptCreeper&#39;s blog</copyright>
+        <lastBuildDate>Sat, 15 Feb 2025 10:29:00 +0800</lastBuildDate><atom:link href="https://ScriptCreeper.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My first article</title>
+        <link>https://ScriptCreeper.github.io/p/my-first-article/</link>
+        <pubDate>Sat, 15 Feb 2025 10:29:00 +0800</pubDate>
+        
+        <guid>https://ScriptCreeper.github.io/p/my-first-article/</guid>
+        <description>&lt;p&gt;This is my first personal blog, and I will post some tutorials or record my life later. Thank you all for your support.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://ScriptCreeper.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ScriptCreeper.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://ScriptCreeper.github.io/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://ScriptCreeper.github.io/about/</guid>
+        <description>&lt;p&gt;An ordinary person who likes to share tutorials and record life.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://ScriptCreeper.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://ScriptCreeper.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
